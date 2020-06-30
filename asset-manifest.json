@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ConTemperature/static/css/main.8d61f437.chunk.css",
+    "main.js": "/ConTemperature/static/js/main.a64770ab.chunk.js",
+    "main.js.map": "/ConTemperature/static/js/main.a64770ab.chunk.js.map",
+    "runtime-main.js": "/ConTemperature/static/js/runtime-main.19235a4b.js",
+    "runtime-main.js.map": "/ConTemperature/static/js/runtime-main.19235a4b.js.map",
+    "static/js/2.3fc81135.chunk.js": "/ConTemperature/static/js/2.3fc81135.chunk.js",
+    "static/js/2.3fc81135.chunk.js.map": "/ConTemperature/static/js/2.3fc81135.chunk.js.map",
+    "index.html": "/ConTemperature/index.html",
+    "precache-manifest.b66db5c9956d5759222123268fcab080.js": "/ConTemperature/precache-manifest.b66db5c9956d5759222123268fcab080.js",
+    "service-worker.js": "/ConTemperature/service-worker.js",
+    "static/css/main.8d61f437.chunk.css.map": "/ConTemperature/static/css/main.8d61f437.chunk.css.map",
+    "static/js/2.3fc81135.chunk.js.LICENSE.txt": "/ConTemperature/static/js/2.3fc81135.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/ConTemperature/static/media/weather.87e169db.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19235a4b.js",
+    "static/js/2.3fc81135.chunk.js",
+    "static/css/main.8d61f437.chunk.css",
+    "static/js/main.a64770ab.chunk.js"
+  ]
+}
